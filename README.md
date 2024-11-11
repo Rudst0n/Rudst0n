@@ -5,6 +5,9 @@
   </a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudst0n&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudst0n&show_icons=true&count_private=true&theme=radical&token)
+
 <div>
   <a href="https://www.instagram.com/rudst0n?igsh=cHdyZGFtd3g1Z2Q5" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
