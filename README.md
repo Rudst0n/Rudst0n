@@ -1,8 +1,8 @@
 <div>
   <a href="https://github.com/Rudst0n" target="_blank">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudst0n&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudst0n&show_icons=true&count_private=true&theme=radical=dracula&include_all_commits=true)
   </a>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudst0n&show_icons=true&count_private=true&theme=radical&)
 </div>
 
 
