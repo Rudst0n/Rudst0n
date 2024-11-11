@@ -1,12 +1,10 @@
 <div>
   <a href="https://github.com/Rudst0n" target="_blank">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudst0n&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rudst0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudst0n&show_icons=true&count_private=true&theme=radical=dracula&include_all_commits=true)
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudst0n&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudst0n&show_icons=true&count_private=true&theme=radical&token)
 
 <div>
   <a href="https://www.instagram.com/rudst0n?igsh=cHdyZGFtd3g1Z2Q5" target="_blank">
