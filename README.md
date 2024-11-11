@@ -1,5 +1,4 @@
-<div align="center">
-  <!-- GitHub Stats -->
+<div align="left">
   <a href="https://github.com/Rudst0n" target="_blank">
     <img 
       loading="lazy" 
@@ -16,8 +15,7 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <!-- Social Links -->
+<div align="left" style="margin-top: 20px;">
   <a href="https://www.instagram.com/rudst0n?igsh=cHdyZGFtd3g1Z2Q5" target="_blank">
     <img 
       loading="lazy" 
